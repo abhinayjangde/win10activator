@@ -19,7 +19,7 @@
 
     - Finally press enter for command execution.
     - Type the command“slmgr /skms s8.uk.to” in order to connect to KMS server. If not connecting please try this server: “slmgr /skms kms8.msguides.com”
-    - Now the final step is to activate your copy of Windows 10 using command “slmgr /ato” or "slmgr.vbo -ato"
+    - Now the final step is to activate your copy of Windows 10 using command "slmgr.vbo -ato"
 
     - If you face any error e.g 0xC004F074 during activation process then don’t worry. Please make sure you are connected to the internet.
 
